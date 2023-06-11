@@ -24,7 +24,7 @@ Installez Laragon en téléchargeant le programme d'installation et en suivant l
 
 Ouvrez PyCharm Community Edition.
 
-Cliquez sur "Open Project" (Ouvrir un projet) et sélectionnez le répertoire où se trouve le projet du système de gestion des employés du Paléo.
+Cliquez sur "Open Project" (Ouvrir un projet) et sélectionnez le répertoire où se trouve le projet du système de gestion des employés du Paléo ou selectionner Get from vcs puis insérer le lien github [lien].
 
 Une fois le projet ouvert, créez un environnement virtuel (venv) en allant dans "File" (Fichier) -> "Settings" (Paramètres) -> "Project: nom_du_projet" -> "Python Interpreter" (Interpréteur Python). Cliquez sur l'engrenage à côté de l'interpréteur actuel et sélectionnez "Add" (Ajouter) pour créer un nouvel environnement virtuel.
 
